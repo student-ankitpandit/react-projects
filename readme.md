@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-test file
-=======
-A code repo for react series.
->>>>>>> 9c404f95b1419e0d66570f49174c741137994ca8
+Welcome to the comprehensive repository dedicated to ReactJS in depth. This repo covers not just the basics but dives deep into the intricacies of ReactJS to ensure that you emerge with a solid foundation and deep understanding of the most popular frontend library in the world.
